@@ -1,0 +1,46 @@
+ABHISHEK GUPTA
+Delhi | abhishekgupta0118@gmail.com | 7839939905
+GitHub | Linkedin | Portfolio | LeetCode | YouTube
+EDUCATION
+MTech CSE (AI) (Pg) 2026 Netaji Shubas University and Present
+Technology
+BTech CSE (Ug) 2024 Dr. A. P. J. Abdul Kalam 8.2 CGPA
+Technical University
+Class XII/ 2019 Government Intermediate 73 %
+State Board College, Deoria
+Class X/ 2017 Government Intermediate 75 %
+State Board College, Deoria
+INTERNSHIP
+Web Developer Intern, Webzent Technologies 07/2023-09/2023
+• Implemented RESTful APIs to manage product listings, user authentication, shopping cart, and payment
+gateway integration.
+• Developed front-end features and user interfaces, ensuring responsiveness and a seamless experience across
+mobile and desktop platforms.
+ACADEMI C PROJECTS
+DoctorG | Agentic AI, Pandas, Deep Learning, Python
+• DoctorG is your virtual doctor assistant with accuracy of 90%. Which tells probable disease with provided
+symptoms.
+AllOne | Flutter, Dart, FireBase, FireStore, TOTP
+• Helps User to organize various passwords at Single Place with AllOne notes you can write important things.
+Also, user can apply 2FA Authenticator.
+MediTrade | React, Node, MongoDB, Stripe
+• Web Control Panel for Medical Shop Owners. Which is integrated to NearMed and provide ease to
+businessperson as well as to end users.
+Scalable-Chat-Application – YT-Link | MERN, Apache-Kafka, Docker, Socket.io, Redis
+• Full-Stack web application A scalable chat application’s demonstration. The integration of Apache-Kafka as
+Stream Processing, Redis as message passing, Docker for containerization and Socket scaling for huge
+connections make it scalable.
+TECHNICAL SKILLS
+• Programming Languages: C/C+, Python, GoLang, JavaScript, Dart
+• Machine Learning, Agentic AI
+• Frameworks: Flask, React, Next, Express, Flutter
+• Techs: Apache-Kafka, Redis, Docker
+• Databases: SQL(MySQL), NoSQL(MongoDB)
+ACHIEVEMENTS
+• Gate Qualified 2023
+• Awarded from NASA in IASC(International Astronomical Search Collaboration)
+• The Web Developer Bootcamp 2023 – Click Here
+• Supervised Machine Learning: Regression and Classification – Click Here
+OTHER INFORMATION
+• Date of Birth: 18th Jan 2002
+• Languages Known: English, Hindi
